@@ -1,0 +1,15 @@
+.score{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.score__created{
+    border: 2px groove #252629;
+    padding: 10px;
+}
+
+.score__bookmarks{
+    border: 2px groove #252629;
+    padding: 10px;
+}

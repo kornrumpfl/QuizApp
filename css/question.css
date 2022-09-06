@@ -1,0 +1,30 @@
+.question{
+    position: relative;
+    display:flex;
+    flex-flow: column;
+    margin: 20px 10%;
+	border: 2px groove #252629;
+	padding: 3% 10%;
+	scroll-margin-top: 100px;
+	border-radius: 2rem;
+}
+.question__img{
+    position: absolute;
+    width: 30px;
+    right:5px;
+    top: -5px;
+}
+.question__question{
+    display: flex;
+    justify-content: center;
+}
+nav ul .navbar{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+nav li{
+    padding:4%;
+    background-color: black;
+}

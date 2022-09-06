@@ -1,0 +1,17 @@
+.user{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+
+.user__img{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    width:90px;
+    height: 90px;
+}
+.user__name{
+    display: flex;
+    align-items: center;
+}
